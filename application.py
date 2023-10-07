@@ -60,14 +60,14 @@ welcome = """
     </style>
 </head>
 <body>
-    <h1>Jenish Revaldo C   -  Data Analyst</h1>
+    <h1>Rudin jose   -  Data Analyst</h1>
   
     <p>Driven and adaptable Data Analyst with a passion for continuous learning and leadership. Skilled in mathematics, statistics, and programming, I excel at solving complex problems and extracting valuable insights from data. Committed to staying updated on industry trends to deliver impactful data-driven solutions.</p>
     
     <div class="contact">
         <h2>Contact Information</h2>
-        <p>Email: jenishrev0603@gmail.com</p>
-        <p>Phone: 7358941365</p>
+        <p>Email: rudinjose2002@gmail.com</p>
+        <p>Phone: 9894452931</p>
         <p>Location: Kanyakumari, India</p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/jenish-revaldo-c-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
         <p>GitHub: <a href="https://github.com/JenishRevaldo">github.com/JenishRevaldo</a></p>
