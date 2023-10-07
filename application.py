@@ -68,9 +68,9 @@ welcome = """
         <h2>Contact Information</h2>
         <p>Email: rudinjose2002@gmail.com</p>
         <p>Phone: 9894452931</p>
-        <p>Location: Kanyakumari, India</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/jenish-revaldo-c-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
-        <p>GitHub: <a href="https://github.com/JenishRevaldo">github.com/JenishRevaldo</a></p>
+        <p>Location: Trichy, India</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/rudinjose-a-004670245">linkedin.com/in/jenish-revaldo-c-004670245</a></p>
+        <p>GitHub: <a href="https://github.com/RudinJose">github.com/JenishRevaldo</a></p>
     </div>
 
     <div class="education">
